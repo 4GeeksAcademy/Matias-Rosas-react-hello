@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.btn-primary {
+    background-color: #7903ff;
+    border-color: #380077;
+}
+
+.btn-primary:active {
+    background-color: #380077;
+}
+
+.btn-primary:hover {
+    background-color: #380077;
+    border-color: #380077;
+}
+
+#hamburgerbtn {
+    background-color: white;
+}
